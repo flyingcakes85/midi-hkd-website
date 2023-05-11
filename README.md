@@ -1,4 +1,4 @@
-# MIDI HKD Websie
+# MIDI HKD Website
 
 This is the website for MIDI HKD.
 
